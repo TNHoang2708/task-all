@@ -1,0 +1,27 @@
+{
+  "url": "https://api.github.com/repos/TNHoang2708/task-all/pulls/1",
+  "id": 987654321,
+  "state": "open",
+  "title": "Fixing typo and updating README",
+  "user": {
+    "login": "TNHoang2708"
+  },
+  "head": {
+    "label": "TNHoang2708:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "name": "task-all",
+      "full_name": "TNHoang2708/task-all",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "TNHoang2708:main",
+    "ref": "main",
+    "repo": {
+      "name": "task-all",
+      "full_name": "TNHoang2708/task-all",
+      "fork": true
+    }
+  }
+}
